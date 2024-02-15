@@ -36,14 +36,3 @@ header nav ul li a {
     border-radius: 5px;
     padding: 5px 10px; /* Espacio interno alrededor del texto del enlace */
 }
-
-a[href$="gatos2"]{
-    background-color: #0b5002;
-}
-
-a[href^="https"]{
-    border-radius: 5px;
-    border: 1px blue;
-    background-color: chartreuse;
-    text-decoration: none;
-}
