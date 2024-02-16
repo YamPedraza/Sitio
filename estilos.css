@@ -24,6 +24,15 @@ main ul li {
     font-size: 25px; /* Tamaño de fuente para el contenido de los elementos <li> */
 }
 
+dl dt{
+    font-size: 30px;
+    color: green;
+}
+
+dl dd{
+    font-size: 22px;
+}
+
 img {
     width: 250px; /* Ancho deseado para la imagen */
     height: auto; /* Altura se ajusta automáticamente para mantener la proporción */
