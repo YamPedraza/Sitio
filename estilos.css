@@ -84,3 +84,11 @@ tr:hover {
 td {
     border: 1px solid #ddd;
 }
+
+section a {
+    color: black; /* Color del texto del enlace */
+    text-decoration: none; /* Quita el subrayado predeterminado */
+    border: 3px solid green; /* Borde de 1px de ancho y color negro */
+    border-radius: 5px;
+    padding: 5px 10px; /* Espacio interno alrededor del texto del enlace */
+}
