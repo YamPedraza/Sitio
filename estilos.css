@@ -3,6 +3,10 @@
     font-size: 80px;
 }
 
+.verdechico{
+    color: green;
+    font-size: 50px;
+}
 .uno{
     font-size: 25px;
 }
@@ -53,4 +57,30 @@ header nav ul li a {
     border: 3px solid green; /* Borde de 1px de ancho y color negro */
     border-radius: 5px;
     padding: 5px 10px; /* Espacio interno alrededor del texto del enlace */
+}
+
+p {
+    font-size: 25px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 15px;
+    text-align: left;
+    font-size: 20px;
+}
+th {
+    background-color: #f2f2f2;
+}
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+tr:hover {
+    background-color: #ddd;
+}
+td {
+    border: 1px solid #ddd;
 }
