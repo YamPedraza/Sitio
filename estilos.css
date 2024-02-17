@@ -59,7 +59,27 @@ header nav ul li a {
     padding: 5px 10px; /* Espacio interno alrededor del texto del enlace */
 }
 
+.h2{
+    color: green;
+    font-size: 30px;
+}
+
+.H2{
+    color: green;
+    font-size: 30px;
+}
+
 p {
+    font-size: 25px;
+}
+
+.uno1{
+    color: green;
+    font-size: 25px;
+}
+
+.dos2{
+    color: green;
     font-size: 25px;
 }
 
@@ -91,4 +111,22 @@ section a {
     border: 3px solid green; /* Borde de 1px de ancho y color negro */
     border-radius: 5px;
     padding: 5px 10px; /* Espacio interno alrededor del texto del enlace */
+}
+
+hr {
+    border: none; /* Elimina el borde predeterminado */
+    border-top: 1px solid green; /* Establece el grosor y el color del borde superior */
+}
+
+.pequeño{
+    font-size: 15px;
+}
+
+.croquetas{
+    color: green;
+    font-size: 30px;
+}
+
+main ol li{
+    font-size: 25px;
 }
